@@ -1,0 +1,8 @@
+bin/
+doc/
+*.jar
+*.zip
+*~
+*.bak
+*.class
+*.pyc
